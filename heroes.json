@@ -1,0 +1,60 @@
+{
+  "heroes": [
+    {
+      "id": "047d0d70-69d8-4d64-bb9d-8b3e25fdc14f",
+      "name": "Vova",
+      "description": "shutit pro hyi",
+      "element": "wind"
+    },
+    {
+      "id": "b04f6ec7-fae5-4b2a-8286-beb7412c6620",
+      "name": "Dima",
+      "description": "smeyatsa s shutok pro hyi\n",
+      "element": "earth"
+    },
+    {
+      "id": "019b7378-ddd3-472c-b7d6-4f034d5a51bf",
+      "name": "Vika",
+      "description": "sided v inste",
+      "element": "water"
+    },
+    {
+      "id": "d8c5b95f-eb46-47a8-9d67-70e7ccbe8c76",
+      "name": "Dasha",
+      "description": "smotret insty i serials",
+      "element": "fire"
+    }
+  ],
+  "filters": [
+    {
+      "id": "all",
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "id": "fire",
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "id": "water",
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "id": "wind",
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "id": "earth",
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
